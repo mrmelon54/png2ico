@@ -1,3 +1,3 @@
-module code.mrmelon54.xyz/sean/png2ico
+module github.com/mrmelon54/png2ico
 
-go 1.17
+go 1.18
